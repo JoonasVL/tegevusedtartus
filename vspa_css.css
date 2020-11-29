@@ -4,7 +4,7 @@ body, html {
 
 }
 .bg {
-  background-image: url("https://www.doknoord.be/wp-content/uploads/2018/11/14883573_2157299904494128_3529174256738741537_o.jpg");
+  background-image: url("https://cf.bstatic.com/images/hotel/max1024x768/993/99333402.jpg");
   
   height: 100%; 
   background-position: center;
@@ -29,7 +29,7 @@ body, html {
 
 h1 {
   font-size:50px;
-  color:#6DC9B2;
+  color:#67C1EC;
   text-shadow: 2px 2px 5px black;
 }
 
@@ -60,5 +60,5 @@ a{
 
 h3{
   font-size: 25px;
-  color: #6DC9B2;
+  color: #67C1EC;
 }
