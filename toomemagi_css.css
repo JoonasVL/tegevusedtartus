@@ -1,12 +1,11 @@
 body {
- background-image: url("https://www.ev100.ee/sites/default/files/event/image/mottetalgud.jpg");
+ background-image: url("https://taevapiltnik.ee/wp-content/uploads/2012/10/MG_3574.jpg");
   height: 100%; 
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   text-shadow: 2px 2px 5px black;
 }
-
 .container {
   padding: 20px 40px 40px;
   max-width: 1500px;

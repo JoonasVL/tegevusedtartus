@@ -1,0 +1,64 @@
+body, html {
+  height: 100%;
+  margin: 0;
+
+}
+.bg {
+  background-image: url("https://www.erm.ee/sites/default/files/erm2016.png");
+  
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.7);
+  color: #b4f5fa;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size:50px;
+  color:#e3c81b;
+  text-shadow: 2px 2px 5px black;
+}
+
+
+.info1 {
+
+  text-align: center;
+
+}
+.info2 {
+  text-align: left;
+  font-size: 25px;
+
+}
+
+.info3{
+  text-align:right;
+}
+
+h2{
+  font-size: 20px;
+}
+
+a{
+  color:#b4f5fa;
+  font-size: 25px;
+}
+
+h3{
+  font-size: 25px;
+  color: #69a2ff;
+}
